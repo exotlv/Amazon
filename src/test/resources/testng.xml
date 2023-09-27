@@ -1,0 +1,12 @@
+<suite name="MySuite">
+    <test name="SmokeTests">
+        <groups>
+            <run>
+                <include name="smoke"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.amazon.tests.AmazonTest"/>
+        </classes>
+    </test>
+</suite>
