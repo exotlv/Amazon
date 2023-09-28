@@ -1,2 +1,5 @@
-# Amazon
-To Run test, use mvn test or mvn clean install
+# Amazon Test
+Language: Java
+Framework: Selenium + TestNG + Webdriver
+Run: mvn test
+
